@@ -226,15 +226,15 @@ nav.linkEffects.linkHoverEffect_12 ul {
 }
 
 .slider-img-w3layouts.one {
-	background: url(../images/bann1.jpg)no-repeat fixed;
+	background: url(../图片/bann1.jpg)no-repeat fixed;
 }
 
 .slider-img-w3layouts.two {
-	background: url(../images/bann2.jpg)no-repeat fixed;
+	background: url(../图片/bann2.jpg)no-repeat fixed;
 }
 
 .slider-img-w3layouts.three {
-	background: url(../images/bann3.jpg)no-repeat fixed;
+	background: url(../图片/bann3.jpg)no-repeat fixed;
 }
 
 .slider-img-w3layouts.one,
@@ -249,7 +249,7 @@ nav.linkEffects.linkHoverEffect_12 ul {
 }
 
 .inn-banner {
-	background: url(../images/bann1.jpg)no-repeat fixed;
+	background: url(../图片/bann1.jpg)no-repeat fixed;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -285,7 +285,7 @@ nav.linkEffects.linkHoverEffect_12 ul {
 	text-decoration: none;
 	width: 50px;
 	height: 50px;
-	background: transparent url(../images/arrows.png) no-repeat left top;
+	background: transparent url(../图片/arrows.png) no-repeat left top;
 }
 
 .callbacks_nav.next {
@@ -1377,15 +1377,15 @@ ul.dropdown-menu6 li a {
 }
 
 .banner-text1 {
-	background: url(../images/bann2.jpg) no-repeat 0px 0px;
+	background: url(../图片/bann2.jpg) no-repeat 0px 0px;
 }
 
 .banner-text2 {
-	background: url(../images/bann4.jpg) no-repeat 0px 0px;
+	background: url(../图片/bann4.jpg) no-repeat 0px 0px;
 }
 
 .banner-text3 {
-	background: url(../images/bann3.jpg) no-repeat 0px 0px;
+	background: url(../图片/bann3.jpg) no-repeat 0px 0px;
 }
 
 .banner-text1,
@@ -1529,7 +1529,7 @@ h3.tittle.white {
 
 .sevices-w3layouts {
 	background: #1d1d1d;
-	background: url(../images/services-bg1.jpg) no-repeat 0px 0px;
+	background: url(../图片/services-bg1.jpg) no-repeat 0px 0px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -1558,15 +1558,15 @@ h3.tittle.white {
 }
 
 .blog-img1-agileits-w3layouts a {
-	background: url(../images/g2.jpg) no-repeat 0px 0px;
+	background: url(../图片/g2.jpg) no-repeat 0px 0px;
 }
 
 .blog-img2-agileits-w3layouts a {
-	background: url("../images/g5.jpg") no-repeat 0px 0px;
+	background: url("../图片/g5.jpg") no-repeat 0px 0px;
 }
 
 .blog-img3-agileits-w3layouts a {
-	background: url("../images/g7.jpg") no-repeat 0px 0px;
+	background: url("../图片/g7.jpg") no-repeat 0px 0px;
 }
 
 .blog-img1-agileits-w3layouts a,
@@ -1757,7 +1757,7 @@ ul.top-icons.team-icon {
 /*-- testimonials --*/
 
 .text-image-agileits-w3layouts {
-	background: url(../images/test.jpg)no-repeat 0px 0px;
+	background: url(../图片/test.jpg)no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -2734,7 +2734,7 @@ h3.agileits-icons-title {
 	height: 32px;
 	border: none;
 	text-indent: 100%;
-	background: url("../images/arr.png") no-repeat 0px 0px;
+	background: url("../图片/arr.png") no-repeat 0px 0px;
 }
 
 #toTopHover {
